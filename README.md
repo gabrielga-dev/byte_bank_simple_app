@@ -8,7 +8,7 @@ A simple app to register financial transactions.
 - [x] Material components  
 - [x] Stateless and Stateful widgets
 
-## This app was made from a Alura's course
+## This app was made from an Alura's course
 Access the course [here](https://cursos.alura.com.br/course/flutter-fundamentos)
 
 ## Running App
